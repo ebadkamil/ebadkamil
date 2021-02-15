@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ubuntu.com/"> <img alt="Ubuntu" src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=data:image/png;"> </a>
+  <a href="https://www.ubuntu.com/"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
   <a href="https://code.visualstudio.com/"> <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
  </p>
 <hr>
