@@ -5,7 +5,7 @@
  </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebadkamil&show_icons=true&theme=dracula&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ebadkamil&count_private=true&show_icons=true&theme=dracula&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadkamil&layout=compact&theme=dracula&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
 </p>
