@@ -2,8 +2,10 @@ name: Readme
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
   schedule:
-    # Runs at 12am UTC
+    # Run a job every hour (at minute 0)
     - cron: "0 * * * *"
 
 jobs:
@@ -11,17 +13,7 @@ jobs:
     name: Update this README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@1431621a825acf6d266f1db27ccafcf8bfb6e89d
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "False"
+          SHOW_TITLE: true
