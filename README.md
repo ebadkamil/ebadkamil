@@ -9,3 +9,6 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadkamil&layout=compact&theme=dracula&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
