@@ -12,6 +12,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 February, 2021 - 16 February, 2021
+
+YAML       43 mins         ███████████████▒░░░░░░░░░   61.87 % 
+Python     17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 <!--END_SECTION:waka-->
