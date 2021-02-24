@@ -5,9 +5,9 @@
  </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebadkamil&count_private=true&show_icons=true&theme=dracula&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ebadkamil&count_private=true&show_icons=true&hide=stars&card_width=400" alt="github stats" height="130" width="400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadkamil&layout=compact&theme=dracula&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadkamil&layout=compact&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
 </p>
 
 
@@ -15,12 +15,12 @@
 
 <div class="row">
   <div class="column">
-    <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&theme=dracula&hide=stars&card_width=400" height="130" width="400"/> </a>
-    <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true&theme=dracula" height="130" width="400"/> </a>
+    <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&hide=stars&card_width=400" height="130" width="400"/> </a>
+    <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true" height="130" width="400"/> </a>
   </div>
   <div class="column">
-     <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true&theme=dracula" height="130" width="400"/> </a>
-      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true&theme=dracula" height="140" width="400"/> </a>
+     <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true" height="130" width="400"/> </a>
+      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true" height="140" width="400"/> </a>
   </div>
 </div>
 
