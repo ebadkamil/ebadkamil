@@ -40,6 +40,18 @@
   vertical-align: middle;
   width: 100%;
 }
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
 </style>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
