@@ -16,43 +16,15 @@
 <div class="row">
   <div class="column">
     <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&theme=dracula&hide=stars&card_width=400" height="130" width="400"/> </a>
-    <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true&theme=dracula" height="130"/> </a>
+    <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true&theme=dracula" height="130" width="400"/> </a>
   </div>
   <div class="column">
-     <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true&theme=dracula" height="130"/> </a>
-      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true&theme=dracula" height="130"/> </a>
+     <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true&theme=dracula" height="130" width="400"/> </a>
+      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true&theme=dracula" height="140" width="400"/> </a>
   </div>
 </div>
 
-<style>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-.column {
-  flex: 25%;
-  max-width: 50%;
-  padding: 0 4px;
-}
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-</style>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
