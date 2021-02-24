@@ -10,6 +10,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebadkamil&layout=compact&theme=dracula&hide=jupyter%20notebook&card_width=400" alt="languages" height="130" width="400">
 </p>
 
+
+**🔭 Some of my work...**
+
+<div class="row">
+  <div class="column">
+    <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&theme=dracula&hide=stars&card_width=400" height="130" width="400"/> </a>
+    <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true&theme=dracula" height="130"/> </a>
+  </div>
+  <div class="column">
+     <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true&theme=dracula" height="130"/> </a>
+      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true&theme=dracula" height="130"/> </a>
+  </div>
+</div>
+
+<style>
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column {
+  flex: 25%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+</style>
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
