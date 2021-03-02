@@ -13,14 +13,14 @@
 
 **🔭 Some of my work...**
 
-<div class="row">
+<div class="row" align="center">
   <div class="column">
     <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&hide=stars&card_width=400" height="130" width="400"/> </a>
     <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true" height="130" width="400"/> </a>
   </div>
   <div class="column">
      <a href="https://github.com/ebadkamil/analysis-pipeline"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=analysis-pipeline&show_icons=true" height="130" width="400"/> </a>
-      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true" height="140" width="400"/> </a>
+      <a href="https://github.com/ebadkamil/RunMonitor"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=RunMonitor&show_icons=true" height="130" width="400"/> </a>
   </div>
 </div>
 
