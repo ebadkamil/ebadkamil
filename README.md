@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.ubuntu.com/"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> </a>
   <a href="https://code.visualstudio.com/"> <img alt="VSCode" src="https://img.shields.io/badge/Editor-VSCode-green?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
- <a href="https://https://www.python.org/"> <img alt="Ubuntu" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a> 
+ <a href="https://https://www.python.org/"> <img alt="Ubuntu" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a>
  </p>
 <hr>
 <p align="center">
@@ -15,7 +15,7 @@
 
 <div class="row" align="center">
   <div class="column">
-    <a href="https://github.com/ebadkamil/dash_image_analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=dash_image_analysis&show_icons=true&hide=stars&card_width=400" height="130" width="400"/> </a>
+    <a href="https://github.com/ebadkamil/ess-message-consumer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=ess-message-consumer&show_icons=true&hide=stars&card_width=400" height="130" width="400"/> </a>
     <a href="https://github.com/ebadkamil/calibration-services"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebadkamil&repo=calibration-services&show_icons=true" height="130" width="400"/> </a>
   </div>
   <div class="column">
@@ -26,17 +26,17 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Python                   18 hrs 13 mins      ███████████████░░░░░░░░░░   59.66% 
-HTML                     7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.7% 
-CSS                      3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Markdown                 1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
+💬 Programming Languages:
+Python                   18 hrs 13 mins      ███████████████░░░░░░░░░░   59.66%
+HTML                     7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.7%
+CSS                      3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.54%
+Markdown                 1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
 Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  30 hrs 32 mins      █████████████████████████   100.0%
 
 ```
