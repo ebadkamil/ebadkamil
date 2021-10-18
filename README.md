@@ -30,10 +30,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 32 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
